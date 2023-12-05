@@ -1,0 +1,16 @@
+<!ELEMENT traffic_accidents (month+)>
+
+<!ELEMENT month (region, accidents)>
+<!ATTLIST month
+    date CDATA #REQUIRED>
+
+<!ELEMENT region (city, address?)>
+
+<!ELEMENT city (#PCDATA)>
+<!ELEMENT address (#PCDATA)>
+
+<!ELEMENT accidents (accident, dead, injury)>
+
+<!ELEMENT accident (#PCDATA)>
+<!ELEMENT dead (#PCDATA)>
+<!ELEMENT injury (#PCDATA)>

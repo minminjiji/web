@@ -1,0 +1,14 @@
+<parks>
+    <region name="중구">
+        <name>남산도시자연공원</name>
+        <facilities>녹지대 및 기타시설</facilities>
+        <address>서울특별시 중구 삼일대로 231(예장동)</address>
+        <contact>02-3455-9277</contact>
+    </region>
+    <region name="영등포구">
+        <name>진관근린공원(구파발폭포)</name>
+        <facilities>휴양 및 편의시설 : 평의자 7개 화장실 23.18㎡ 은하폭포</facilities>
+        <address>은평구	서울특별시 은평구 진관동 393</address>
+        <contact>02-387-0236</contact>
+    </region>
+</parks>

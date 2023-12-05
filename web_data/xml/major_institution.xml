@@ -1,0 +1,14 @@
+<majorinstitution>
+    <region>
+        <regionname>종로구</regionname>
+        <nationalpolicagency>1</nationalpolicagency>
+        <policestation>2</policestation>
+        <policesubstaion>22</policesubstaion>
+    </region>
+    <region>
+        <regionname>중구</regionname>
+        <nationalpolicagency>0</nationalpolicagency>
+        <policestation>2</policestation>
+        <policesubstaion>18</policesubstaion>
+    </region>
+</majorinstitution>

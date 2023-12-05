@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE trafficaccidents SYSTEM "trafficaccidents.dtd">
+<traffic_accidents xmlns="http://example.com/traffic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.com/traffic traffic_schema.xsd">
+    <month date="2022-01">
+        <region>
+            <city>서울</city>
+            <address>종로구</address>
+        </region>
+        <accidents>
+            <accident>1</accident>
+            <dead>0</dead>
+            <injury>2</injury>
+        </accidents>
+    </month>
+    <month date="2022-02">
+        <region>
+            <city>전북</city>
+        </region>
+        <accidents>
+            <accident>8</accident>
+            <dead>0</dead>
+            <injury>10</injury>
+        </accidents>
+    </month>
+</traffic_accidents>

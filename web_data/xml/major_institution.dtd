@@ -1,0 +1,8 @@
+<!ELEMENT majorinstitution (region+)>
+
+<!ELEMENT region (regionname, nationalpolicagency, policestation, policesubstaion)>
+
+<!ELEMENT regionname (#PCDATA)>
+<!ELEMENT nationalpolicagency (#PCDATA)>
+<!ELEMENT policestation (#PCDATA)>
+<!ELEMENT policesubstaion (#PCDATA)>

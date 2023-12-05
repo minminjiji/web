@@ -1,0 +1,25 @@
+<schoolzones>
+    <schoolzone region="종로구">
+        <region>
+            <dong>부암동</dong>
+            <address>홍지문2길1</address>
+        </region>
+        <facility>
+            <facilityname>상명대학교사범대학부속초등학교</facilityname>
+            <facilitytype>초등학교</facilitytype>
+            <designatedyear>2006</designatedyear>
+        </facility>
+    </schoolzone>
+
+    <schoolzone region="종로구">
+        <region>
+            <dong>종로1,2,3,4가동</dong>
+            <address>삼일대로446</address>
+        </region>
+        <facility>
+            <facilityname>서울교동초등학교</facilityname>
+            <facilitytype>초등학교</facilitytype>
+            <designatedyear>2006</designatedyear>
+        </facility>
+    </schoolzone>
+</schoolzones>

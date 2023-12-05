@@ -1,0 +1,10 @@
+<!ELEMENT parks (region+)>
+
+<!ELEMENT region (name, facilities, address, contact)>
+<!ATTLIST region
+    name CDATA #REQUIRED>
+
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT facilities (#PCDATA)>
+<!ELEMENT address (#PCDATA)>
+<!ELEMENT contact (#PCDATA)>
